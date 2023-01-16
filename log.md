@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-## Day 0: February 15, 2023 
+## Day 0: January 15, 2023 
 
 ### Started 100 days of code!
 ### Completed Leetcode challenges:
@@ -10,3 +10,12 @@
     -Number of Steps to Reduce a Number to Zero
     -Middle of the Linked List
     -Ransom Note
+
+### Day 1: January 16, 2023
+
+### More leetcode challenges
+### My knowledge of data structures and algorithms is poor, im using leetcode to improve that.
+### If I come accross a challenge I cant figure out, I'll research it until I can solve it, then solve aditional problems on the topic
+### Linked Lists are todays fun
+### Challenges Completed:
+    - Reverse a Linked List
