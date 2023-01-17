@@ -25,3 +25,4 @@
 ### Didnt have much time to code today, so I completed some leetcode challenges in order to just keep my brain working
 ### Challenges Completed:
     - Length of Last Word
+    - Single Number
