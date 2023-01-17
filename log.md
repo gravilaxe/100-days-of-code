@@ -26,3 +26,4 @@
 ### Challenges Completed:
     - Length of Last Word
     - Single Number
+    - Missing Number
