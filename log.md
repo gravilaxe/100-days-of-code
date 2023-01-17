@@ -19,3 +19,9 @@
 ### Linked Lists are todays fun
 ### Challenges Completed:
     - Reverse a Linked List
+
+### Day 2: January 17, 2023
+
+### Didnt have much time to code today, so I completed some leetcode challenges in order to just keep my brain working
+### Challenges Completed:
+    - Length of Last Word
