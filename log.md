@@ -27,3 +27,8 @@
     - Length of Last Word
     - Single Number
     - Missing Number
+
+### Day 3: January 18th, 2023
+### Helped my friend develop a website today!
+### Used a pull request for the first time aswell, and the website is hosted on github codelabs
+    - mahoneyjournalism.github.io
