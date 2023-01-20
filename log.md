@@ -32,3 +32,7 @@
 ### Helped my friend develop a website today!
 ### Used a pull request for the first time aswell, and the website is hosted on github codelabs
     - mahoneyjournalism.github.io
+    
+### Day 4: January 19th, 2023
+### Finished off my university assignment today, a networked game of rock paper scissors built in python using the sockets module
+    - Repo coming soon! Tm
