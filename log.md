@@ -42,11 +42,11 @@
 ### Topics Covered, and apps built
     - Views, containers, structs and instances within swift and swiftUI
     - Built "War game", a game comparing a player card against a cpu card, the highest card winning
-    - Repo:
+    - Repo: https://github.com/gravilaxe/warChallenge
     - Built a slot machine app, very generic
-    - Repo:
+    - Repo: https://github.com/gravilaxe/SwiftUISlots
     - Played around with views and the properties they can have, and built some fancy tiles 
-    - Repo:
+    - Repo: https://github.com/gravilaxe/UITest
     
 ### Day 6: January 21st, 2023
 ### Did not have much time to code today, so spent mostly reviewing the topics covered in day 5
