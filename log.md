@@ -36,3 +36,27 @@
 ### Day 4: January 19th, 2023
 ### Finished off my university assignment today, a networked game of rock paper scissors built in python using the sockets module
     - Repo coming soon! Tm
+    
+### Day 5: January 20th, 2023
+### Started working through CodeWithChris's IOS foundation course
+### Topics Covered, and apps built
+    - Views, containers, structs and instances within swift and swiftUI
+    - Built "War game", a game comparing a player card against a cpu card, the highest card winning
+    - Repo:
+    - Built a slot machine app, very generic
+    - Repo:
+    - Played around with views and the properties they can have, and built some fancy tiles 
+    - Repo:
+    
+### Day 6: January 21st, 2023
+### Did not have much time to code today, so spent mostly reviewing the topics covered in day 5
+    - Tried playing around with some more views, and refined the apps built yesterday
+    - Repos in yesterdays log
+
+### Day 7: January 22nd, 2023
+### Spent time today going over arrays loops and classes within swift, and made some playgrounds to mess with them
+    - Repo:
+
+### Day 8: January 23rd, 2023
+### Went through more of CodeWithChris's IOS foundations today, building a recipe app that handles json data
+    - Repo:
