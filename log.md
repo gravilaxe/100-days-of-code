@@ -59,4 +59,9 @@
 
 ### Day 8: January 23rd, 2023
 ### Went through more of CodeWithChris's IOS foundations today, building a recipe app that handles json data
-    - Repo:
+    - Repo: https://github.com/gravilaxe/RecipeListApp
+    
+### Day 9: January 24th, 2023
+### Updated the recipeApp to include a detailed view of the recipes ingredients and directions for cooking
+    - Repo: https://github.com/gravilaxe/RecipeListApp
+   
